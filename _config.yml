@@ -1,7 +1,7 @@
 #Blog configuration
 
 title: "Code  Faster!"  # Name of the blog
-baseurl:  # Leave empty for <yourusername>.github.io or add "/blog" for <yourusername>.github.io/blog/
+baseurl: "/code-faster-jekyll/" # Leave empty for <yourusername>.github.io or add "/blog" for <yourusername>.github.io/blog/
 email: email@example.net # email used in contact page
 
 highlighter: rouge
